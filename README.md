@@ -1,2 +1,2 @@
 # capstone-project---group-43-skilvul
-deployment
+deployment & deskripsi progress individu group 43 (apa yang dikerjakan)
